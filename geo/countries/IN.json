@@ -1,0 +1,478 @@
+{
+  "schema": 1,
+  "country": {
+    "code": "IN",
+    "name": "India"
+  },
+  "updatedAt": "2026-09-17",
+  "source": "seed-v1 (cities: dr5hn snapshot via sync-locations.mjs; areas: curated top metros; Pune/Hinjewadi micro-deep sample)",
+  "states": [
+    {
+      "name": "Andhra Pradesh",
+      "cities": [
+        {
+          "name": "Visakhapatnam",
+          "areas": []
+        }
+      ]
+    },
+    {
+      "name": "Bihar",
+      "cities": [
+        {
+          "name": "Patna",
+          "areas": []
+        }
+      ]
+    },
+    {
+      "name": "Delhi",
+      "cities": [
+        {
+          "name": "Delhi",
+          "areas": [
+            {
+              "name": "Laxmi Nagar"
+            },
+            {
+              "name": "Karol Bagh"
+            },
+            {
+              "name": "Rohini"
+            },
+            {
+              "name": "Dwarka"
+            },
+            {
+              "name": "Saket"
+            },
+            {
+              "name": "Lajpat Nagar"
+            },
+            {
+              "name": "Uttam Nagar"
+            },
+            {
+              "name": "Malviya Nagar"
+            },
+            {
+              "name": "Janakpuri"
+            },
+            {
+              "name": "Pitampura"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gujarat",
+      "cities": [
+        {
+          "name": "Ahmedabad",
+          "areas": [
+            {
+              "name": "Satellite"
+            },
+            {
+              "name": "Vastrapur"
+            },
+            {
+              "name": "Navrangpura"
+            },
+            {
+              "name": "Bopal"
+            },
+            {
+              "name": "Naranpura"
+            },
+            {
+              "name": "Maninagar"
+            },
+            {
+              "name": "Thaltej"
+            },
+            {
+              "name": "Gota"
+            },
+            {
+              "name": "Paldi"
+            },
+            {
+              "name": "Chandkheda"
+            }
+          ]
+        },
+        {
+          "name": "Surat",
+          "areas": []
+        },
+        {
+          "name": "Vadodara",
+          "areas": []
+        },
+        {
+          "name": "Rajkot",
+          "areas": []
+        }
+      ]
+    },
+    {
+      "name": "Haryana",
+      "cities": [
+        {
+          "name": "Faridabad",
+          "areas": []
+        },
+        {
+          "name": "Gurugram",
+          "areas": []
+        }
+      ]
+    },
+    {
+      "name": "Karnataka",
+      "cities": [
+        {
+          "name": "Bengaluru",
+          "areas": [
+            {
+              "name": "Koramangala"
+            },
+            {
+              "name": "Indiranagar"
+            },
+            {
+              "name": "HSR Layout"
+            },
+            {
+              "name": "Whitefield"
+            },
+            {
+              "name": "Marathahalli"
+            },
+            {
+              "name": "BTM Layout"
+            },
+            {
+              "name": "Jayanagar"
+            },
+            {
+              "name": "Malleshwaram"
+            },
+            {
+              "name": "Hebbal"
+            },
+            {
+              "name": "Electronic City"
+            },
+            {
+              "name": "Yelahanka"
+            },
+            {
+              "name": "JP Nagar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Madhya Pradesh",
+      "cities": [
+        {
+          "name": "Indore",
+          "areas": []
+        },
+        {
+          "name": "Bhopal",
+          "areas": []
+        }
+      ]
+    },
+    {
+      "name": "Maharashtra",
+      "cities": [
+        {
+          "name": "Mumbai",
+          "areas": [
+            {
+              "name": "Andheri West"
+            },
+            {
+              "name": "Bandra West"
+            },
+            {
+              "name": "Juhu"
+            },
+            {
+              "name": "Powai"
+            },
+            {
+              "name": "Malad West"
+            },
+            {
+              "name": "Borivali West"
+            },
+            {
+              "name": "Goregaon"
+            },
+            {
+              "name": "Versova"
+            },
+            {
+              "name": "Dadar"
+            },
+            {
+              "name": "Chembur"
+            },
+            {
+              "name": "Mulund"
+            },
+            {
+              "name": "Thane West"
+            }
+          ]
+        },
+        {
+          "name": "Pune",
+          "areas": [
+            {
+              "name": "Hinjewadi",
+              "children": [
+                {
+                  "name": "Hinjewadi Phase 1"
+                },
+                {
+                  "name": "Hinjewadi Phase 2"
+                },
+                {
+                  "name": "Hinjewadi Phase 3"
+                },
+                {
+                  "name": "Laxmi Chowk"
+                },
+                {
+                  "name": "Shivaji Chowk"
+                }
+              ]
+            },
+            {
+              "name": "Baner"
+            },
+            {
+              "name": "Wakad"
+            },
+            {
+              "name": "Koregaon Park"
+            },
+            {
+              "name": "Viman Nagar"
+            },
+            {
+              "name": "Kharadi"
+            },
+            {
+              "name": "Hadapsar"
+            },
+            {
+              "name": "Kothrud"
+            },
+            {
+              "name": "Pimpri"
+            },
+            {
+              "name": "Magarpatta"
+            }
+          ]
+        },
+        {
+          "name": "Nagpur",
+          "areas": []
+        },
+        {
+          "name": "Thane",
+          "areas": []
+        },
+        {
+          "name": "Nashik",
+          "areas": []
+        }
+      ]
+    },
+    {
+      "name": "Punjab",
+      "cities": [
+        {
+          "name": "Ludhiana",
+          "areas": []
+        }
+      ]
+    },
+    {
+      "name": "Rajasthan",
+      "cities": [
+        {
+          "name": "Jaipur",
+          "areas": []
+        }
+      ]
+    },
+    {
+      "name": "Tamil Nadu",
+      "cities": [
+        {
+          "name": "Chennai",
+          "areas": [
+            {
+              "name": "Velachery"
+            },
+            {
+              "name": "Adyar"
+            },
+            {
+              "name": "Anna Nagar"
+            },
+            {
+              "name": "T. Nagar"
+            },
+            {
+              "name": "Porur"
+            },
+            {
+              "name": "Thiruvanmiyur"
+            },
+            {
+              "name": "Tambaram"
+            },
+            {
+              "name": "Guindy"
+            },
+            {
+              "name": "KK Nagar"
+            },
+            {
+              "name": "OMR"
+            }
+          ]
+        },
+        {
+          "name": "Coimbatore",
+          "areas": []
+        }
+      ]
+    },
+    {
+      "name": "Telangana",
+      "cities": [
+        {
+          "name": "Hyderabad",
+          "areas": [
+            {
+              "name": "Madhapur"
+            },
+            {
+              "name": "Kondapur"
+            },
+            {
+              "name": "Kukatpally"
+            },
+            {
+              "name": "Dilsukhnagar"
+            },
+            {
+              "name": "Begumpet"
+            },
+            {
+              "name": "Ameerpet"
+            },
+            {
+              "name": "Miyapur"
+            },
+            {
+              "name": "LB Nagar"
+            },
+            {
+              "name": "Uppal"
+            },
+            {
+              "name": "Secunderabad"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Uttar Pradesh",
+      "cities": [
+        {
+          "name": "Lucknow",
+          "areas": []
+        },
+        {
+          "name": "Kanpur",
+          "areas": []
+        },
+        {
+          "name": "Ghaziabad",
+          "areas": []
+        },
+        {
+          "name": "Agra",
+          "areas": []
+        },
+        {
+          "name": "Meerut",
+          "areas": []
+        },
+        {
+          "name": "Varanasi",
+          "areas": []
+        },
+        {
+          "name": "Noida",
+          "areas": []
+        }
+      ]
+    },
+    {
+      "name": "West Bengal",
+      "cities": [
+        {
+          "name": "Kolkata",
+          "areas": [
+            {
+              "name": "Salt Lake"
+            },
+            {
+              "name": "New Town"
+            },
+            {
+              "name": "Park Street"
+            },
+            {
+              "name": "Behala"
+            },
+            {
+              "name": "Dum Dum"
+            },
+            {
+              "name": "Ballygunge"
+            },
+            {
+              "name": "Jadavpur"
+            },
+            {
+              "name": "Lake Town"
+            },
+            {
+              "name": "Garia"
+            },
+            {
+              "name": "Howrah"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
