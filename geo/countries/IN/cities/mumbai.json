@@ -7,42 +7,1891 @@
   "city": "Mumbai",
   "state": "Maharashtra",
   "updatedAt": "2026-09-17",
+  "source": "OSM Overpass one-shot (bbox 18.89,72.77,19.31,73.01) + tools/overrides/mumbai.json.mjs",
+  "areaCount": 626,
   "areas": [
     {
+      "name": "Aagri Pada"
+    },
+    {
+      "name": "Abhyudaya Nagar"
+    },
+    {
+      "name": "Adarsh Nagar"
+    },
+    {
+      "name": "Adivasi Nagar"
+    },
+    {
+      "name": "Agaripada"
+    },
+    {
+      "name": "Agarwadi Gaon"
+    },
+    {
+      "name": "Aghadi Nagar"
+    },
+    {
+      "name": "Agripada"
+    },
+    {
+      "name": "Airoli"
+    },
+    {
+      "name": "Airoli Sector 10"
+    },
+    {
+      "name": "Airoli Sector 2"
+    },
+    {
+      "name": "Airoli Sector 5"
+    },
+    {
+      "name": "Airoli Village"
+    },
+    {
+      "name": "Amar Nagar"
+    },
+    {
+      "name": "Ambapada"
+    },
+    {
+      "name": "Ambedkar Nagar"
+    },
+    {
+      "name": "Ambewadi"
+    },
+    {
+      "name": "Amrut Nagar"
+    },
+    {
+      "name": "Anand Nagar"
+    },
+    {
+      "name": "Anandgadh"
+    },
+    {
+      "name": "Andheri East"
+    },
+    {
       "name": "Andheri West"
+    },
+    {
+      "name": "Anik Gaon"
+    },
+    {
+      "name": "Anik Nagar"
+    },
+    {
+      "name": "Anjeer Wadi"
+    },
+    {
+      "name": "Annabhau Sathe Nagar"
+    },
+    {
+      "name": "Antop Hill"
+    },
+    {
+      "name": "Anushakti Nagar"
+    },
+    {
+      "name": "Apollo Bandar"
+    },
+    {
+      "name": "Appapada"
+    },
+    {
+      "name": "Aram Nagar 2"
+    },
+    {
+      "name": "Aramnagar Part 1"
+    },
+    {
+      "name": "Asalpha"
+    },
+    {
+      "name": "Ashish Complex"
+    },
+    {
+      "name": "Ashok Nagar"
+    },
+    {
+      "name": "Ashokvan"
+    },
+    {
+      "name": "Ashtavinayak Nagar"
+    },
+    {
+      "name": "Avdhut Nagar"
+    },
+    {
+      "name": "Azad Nagar"
+    },
+    {
+      "name": "Babu Jagjivan Ram Nagar"
+    },
+    {
+      "name": "Bainga Wadi"
+    },
+    {
+      "name": "Bajaj Wadi"
+    },
+    {
+      "name": "Balkum Pada"
+    },
+    {
+      "name": "Ballard Estate"
+    },
+    {
+      "name": "Bamanwada"
+    },
+    {
+      "name": "Bandra East"
+    },
+    {
+      "name": "Bandra Kurla Complex"
+    },
+    {
+      "name": "Bandra Reclamation"
     },
     {
       "name": "Bandra West"
     },
     {
-      "name": "Juhu"
+      "name": "Bandstand"
     },
     {
-      "name": "Powai"
+      "name": "Bangur Nagar"
     },
     {
-      "name": "Malad West"
+      "name": "Barkat Ali Nagar"
     },
     {
-      "name": "Borivali West"
+      "name": "BDD Chawl"
     },
     {
-      "name": "Goregaon"
+      "name": "Behram Baug"
     },
     {
-      "name": "Versova"
+      "name": "Behram Pada"
     },
     {
-      "name": "Dadar"
+      "name": "Bhagat Singh Nagar"
+    },
+    {
+      "name": "Bhandup East"
+    },
+    {
+      "name": "Bhandup Industrial Area"
+    },
+    {
+      "name": "Bhandup Village East"
+    },
+    {
+      "name": "Bhandup Village West"
+    },
+    {
+      "name": "Bhandup West"
+    },
+    {
+      "name": "Bharat Nagar"
+    },
+    {
+      "name": "Bharatiya Kamala Nagar"
+    },
+    {
+      "name": "Bhatiya Nagar"
+    },
+    {
+      "name": "Bhattipada"
+    },
+    {
+      "name": "Bhavani Nagar"
+    },
+    {
+      "name": "Bhavanishankar"
+    },
+    {
+      "name": "Bhayander East"
+    },
+    {
+      "name": "Bhayander Pada"
+    },
+    {
+      "name": "Bhayander West"
+    },
+    {
+      "name": "Bhoiwada"
+    },
+    {
+      "name": "Bhuleshwar"
+    },
+    {
+      "name": "Bodha Pada"
+    },
+    {
+      "name": "Bora Bazaar"
+    },
+    {
+      "name": "Boraspada"
+    },
+    {
+      "name": "Bori Bunder"
+    },
+    {
+      "name": "Borivali East"
+    },
+    {
+      "name": "Brahmand Nagar"
+    },
+    {
+      "name": "Breach Candy"
+    },
+    {
+      "name": "Budhaji Nagar"
+    },
+    {
+      "name": "Budhiya Jadhav Wadi"
+    },
+    {
+      "name": "Bunder Pakhadi Gaon"
+    },
+    {
+      "name": "Byculla East"
+    },
+    {
+      "name": "Byculla West"
+    },
+    {
+      "name": "Chakala"
+    },
+    {
+      "name": "Chakala Village"
+    },
+    {
+      "name": "Chanakya Nagar"
+    },
+    {
+      "name": "Chandan Nagar"
+    },
+    {
+      "name": "Chandivali"
+    },
+    {
+      "name": "Chandrabai Nagar"
+    },
+    {
+      "name": "Charai"
+    },
+    {
+      "name": "Charkop"
+    },
+    {
+      "name": "Charkop Sector 7"
+    },
+    {
+      "name": "Charkop Village"
+    },
+    {
+      "name": "Cheeta Camp"
     },
     {
       "name": "Chembur"
     },
     {
-      "name": "Mulund"
+      "name": "Chembur Gaothan"
     },
     {
-      "name": "Thane West"
+      "name": "Chendani Koliwada"
+    },
+    {
+      "name": "Chhatrapati Nagar"
+    },
+    {
+      "name": "Chheda Nagar"
+    },
+    {
+      "name": "Chikalwadi"
+    },
+    {
+      "name": "Chimatpada"
+    },
+    {
+      "name": "Chimbai Village"
+    },
+    {
+      "name": "Chinch Bunder"
+    },
+    {
+      "name": "Chinchpada"
+    },
+    {
+      "name": "Christian Wada"
+    },
+    {
+      "name": "Chuim Village"
+    },
+    {
+      "name": "Churchgate"
+    },
+    {
+      "name": "Colaba"
+    },
+    {
+      "name": "Cotton Green"
+    },
+    {
+      "name": "Cuffe Parade"
+    },
+    {
+      "name": "Cumballa Hill"
+    },
+    {
+      "name": "Cusrow Baug"
+    },
+    {
+      "name": "D'mello Compound"
+    },
+    {
+      "name": "Dadabhai Naoroji Nagar"
+    },
+    {
+      "name": "Dadar West"
+    },
+    {
+      "name": "Dahisar East"
+    },
+    {
+      "name": "Dahisar West"
+    },
+    {
+      "name": "Dana Bandar"
+    },
+    {
+      "name": "Danda"
+    },
+    {
+      "name": "Darukhana"
+    },
+    {
+      "name": "Dattapada"
+    },
+    {
+      "name": "Daulat Nagar"
+    },
+    {
+      "name": "Dauri Nagar"
+    },
+    {
+      "name": "Deonar"
+    },
+    {
+      "name": "Deonar Village"
+    },
+    {
+      "name": "Devipada"
+    },
+    {
+      "name": "Dhaku Prabhuchi Wadi"
+    },
+    {
+      "name": "Dhangar Wadi"
+    },
+    {
+      "name": "Dharavi"
+    },
+    {
+      "name": "Dharkhadi"
+    },
+    {
+      "name": "Dhobi Ghat"
+    },
+    {
+      "name": "Dhobighat"
+    },
+    {
+      "name": "Dhokali"
+    },
+    {
+      "name": "Dhondewadi"
+    },
+    {
+      "name": "Dhunbai Wadi"
+    },
+    {
+      "name": "Digha"
+    },
+    {
+      "name": "Digha Village"
+    },
+    {
+      "name": "Dindoshi"
+    },
+    {
+      "name": "Diva Village"
+    },
+    {
+      "name": "Dnyaneshwar Nagar"
+    },
+    {
+      "name": "Dongaripada"
+    },
+    {
+      "name": "Dongri"
+    },
+    {
+      "name": "Dr Zakir Hussain Nagar"
+    },
+    {
+      "name": "Durganagar"
+    },
+    {
+      "name": "Dutta Mandir"
+    },
+    {
+      "name": "Ekta Nagar"
+    },
+    {
+      "name": "Erangal"
+    },
+    {
+      "name": "Farid Nagar"
+    },
+    {
+      "name": "Fazalbhoy Wadi"
+    },
+    {
+      "name": "Ferbandar"
+    },
+    {
+      "name": "Filter Pada"
+    },
+    {
+      "name": "Fort"
+    },
+    {
+      "name": "Four Bungalows"
+    },
+    {
+      "name": "G Block"
+    },
+    {
+      "name": "Gabriel Wadi"
+    },
+    {
+      "name": "Gaikwad Nagar"
+    },
+    {
+      "name": "Gamdevi"
+    },
+    {
+      "name": "Gandhi Nagar"
+    },
+    {
+      "name": "Ganesh Nagar"
+    },
+    {
+      "name": "Ganesh Pada"
+    },
+    {
+      "name": "Gangawadi"
+    },
+    {
+      "name": "Gaondevi"
+    },
+    {
+      "name": "Gaondevi Dongri"
+    },
+    {
+      "name": "Garib Janta Nagar"
+    },
+    {
+      "name": "Garodia Nagar"
+    },
+    {
+      "name": "Gautam Nagar"
+    },
+    {
+      "name": "Gavan Pada Koliwada"
+    },
+    {
+      "name": "Gavan Village"
+    },
+    {
+      "name": "Gavhanpada"
+    },
+    {
+      "name": "Gavni Pada"
+    },
+    {
+      "name": "Ghansoli"
+    },
+    {
+      "name": "Ghansoli Village"
+    },
+    {
+      "name": "Ghatkopar"
+    },
+    {
+      "name": "Ghatkopar East"
+    },
+    {
+      "name": "Ghatkopar West"
+    },
+    {
+      "name": "Ghatla Village"
+    },
+    {
+      "name": "Ghodapdeo"
+    },
+    {
+      "name": "Girgaon"
+    },
+    {
+      "name": "Gokuldham"
+    },
+    {
+      "name": "Golibar"
+    },
+    {
+      "name": "Gopal Nagar"
+    },
+    {
+      "name": "Gorai"
+    },
+    {
+      "name": "Goregaon East"
+    },
+    {
+      "name": "Goregaon West"
+    },
+    {
+      "name": "Gothivali Village"
+    },
+    {
+      "name": "Govandi East"
+    },
+    {
+      "name": "Govandi Village"
+    },
+    {
+      "name": "Govandi West"
+    },
+    {
+      "name": "Govardhan Nagar"
+    },
+    {
+      "name": "Govind Nagar"
+    },
+    {
+      "name": "Gufa Tekdi"
+    },
+    {
+      "name": "Guru Tegh Bahadur Nagar"
+    },
+    {
+      "name": "Haji Ali"
+    },
+    {
+      "name": "Hallow Pul"
+    },
+    {
+      "name": "Hanuman Nagar"
+    },
+    {
+      "name": "Hanuman Pada"
+    },
+    {
+      "name": "Hari Dada Chawl"
+    },
+    {
+      "name": "Haridas Nagar"
+    },
+    {
+      "name": "Hariom Nagar"
+    },
+    {
+      "name": "Hariyali"
+    },
+    {
+      "name": "Hastiraj Plot"
+    },
+    {
+      "name": "Hira Nagar"
+    },
+    {
+      "name": "Hiradevi Nagar"
+    },
+    {
+      "name": "Hiranandani Estate"
+    },
+    {
+      "name": "Hiranandani Gardens"
+    },
+    {
+      "name": "Howchet Wadi"
+    },
+    {
+      "name": "Indira Nagar"
+    },
+    {
+      "name": "Indira Nagar No.1"
+    },
+    {
+      "name": "Indira Nagar No.2"
+    },
+    {
+      "name": "Indira Nagar No.3"
+    },
+    {
+      "name": "Irla Village"
+    },
+    {
+      "name": "Jagdusha Nagar"
+    },
+    {
+      "name": "Jai Ambe Nagar"
+    },
+    {
+      "name": "Jai Ambika Nagar"
+    },
+    {
+      "name": "Jai Jawan Nagar"
+    },
+    {
+      "name": "Jaishankar Nagar"
+    },
+    {
+      "name": "Jambli Naka"
+    },
+    {
+      "name": "Jamil Nagar"
+    },
+    {
+      "name": "Janakalyan Nagar"
+    },
+    {
+      "name": "Jarimari"
+    },
+    {
+      "name": "Jawahar Nagar"
+    },
+    {
+      "name": "Jeet Nagar"
+    },
+    {
+      "name": "Jeevan Nagar"
+    },
+    {
+      "name": "Jogeshwari West"
+    },
+    {
+      "name": "Joglekar Nagar"
+    },
+    {
+      "name": "Joseph Patel Wadi"
+    },
+    {
+      "name": "Juhu"
+    },
+    {
+      "name": "Juhu Gaothan"
+    },
+    {
+      "name": "Juhu Market"
+    },
+    {
+      "name": "Juipada"
+    },
+    {
+      "name": "JVPD Scheme"
+    },
+    {
+      "name": "Jyoti Nagar"
+    },
+    {
+      "name": "Jyotiba Phule Nagar"
+    },
+    {
+      "name": "Kadampada"
+    },
+    {
+      "name": "Kajori Wadi"
+    },
+    {
+      "name": "Kala Ghoda"
+    },
+    {
+      "name": "Kala Qila"
+    },
+    {
+      "name": "Kalachowki"
+    },
+    {
+      "name": "Kalanagar"
+    },
+    {
+      "name": "Kalbadevi"
+    },
+    {
+      "name": "Kalina"
+    },
+    {
+      "name": "Kalina Village"
+    },
+    {
+      "name": "Kamala Nagar"
+    },
+    {
+      "name": "Kamani"
+    },
+    {
+      "name": "Kamaraj Nagar"
+    },
+    {
+      "name": "Kamathipura"
+    },
+    {
+      "name": "Kamgar Nagar"
+    },
+    {
+      "name": "Kandarpada"
+    },
+    {
+      "name": "Kandivali East"
+    },
+    {
+      "name": "Kandivali West"
+    },
+    {
+      "name": "Kanjur Village"
+    },
+    {
+      "name": "Kanjur West"
+    },
+    {
+      "name": "Kannamwar Nagar I"
+    },
+    {
+      "name": "Kannamwar Nagar II"
+    },
+    {
+      "name": "Kapad Bazar"
+    },
+    {
+      "name": "Kapol Wadi"
+    },
+    {
+      "name": "Kapur Bawadi"
+    },
+    {
+      "name": "Kapurbavadi"
+    },
+    {
+      "name": "Karan Complex"
+    },
+    {
+      "name": "Kasarwadi"
+    },
+    {
+      "name": "Kashigaon"
+    },
+    {
+      "name": "Kashimira"
+    },
+    {
+      "name": "Keshav Pada"
+    },
+    {
+      "name": "Ketkipada"
+    },
+    {
+      "name": "Ketli Pada"
+    },
+    {
+      "name": "Khadak"
+    },
+    {
+      "name": "Khadan"
+    },
+    {
+      "name": "Khar"
+    },
+    {
+      "name": "Khar Danda Koliwada"
+    },
+    {
+      "name": "Khardev Nagar"
+    },
+    {
+      "name": "Kharegaon"
+    },
+    {
+      "name": "Kharodi"
+    },
+    {
+      "name": "Kherwadi"
+    },
+    {
+      "name": "Khindipada"
+    },
+    {
+      "name": "Khira Nagar"
+    },
+    {
+      "name": "Kirol VIllage"
+    },
+    {
+      "name": "Kisan Nagar"
+    },
+    {
+      "name": "Kismat Nagar"
+    },
+    {
+      "name": "Kokan Nagar"
+    },
+    {
+      "name": "Kokanipada"
+    },
+    {
+      "name": "Kolivery Village"
+    },
+    {
+      "name": "Koliwada"
+    },
+    {
+      "name": "Kolse Wadi"
+    },
+    {
+      "name": "Kolshet"
+    },
+    {
+      "name": "Kondivita Village"
+    },
+    {
+      "name": "Kopar Khairne"
+    },
+    {
+      "name": "Kopri"
+    },
+    {
+      "name": "Kora Kendra"
+    },
+    {
+      "name": "Korba Mithagar"
+    },
+    {
+      "name": "Kothu Wadi"
+    },
+    {
+      "name": "Kranti Nagar"
+    },
+    {
+      "name": "Kulkarni Wadi"
+    },
+    {
+      "name": "Kurar"
+    },
+    {
+      "name": "Kurla Christian Village"
+    },
+    {
+      "name": "Kurla East"
+    },
+    {
+      "name": "Kurla West"
+    },
+    {
+      "name": "Lal Bahadur Shastri Nagar"
+    },
+    {
+      "name": "Lal Baug"
+    },
+    {
+      "name": "Lal Mati (Lal Mitti)"
+    },
+    {
+      "name": "Lalbaug"
+    },
+    {
+      "name": "Lallubhai Compound"
+    },
+    {
+      "name": "Land's End"
+    },
+    {
+      "name": "Lasunwadi"
+    },
+    {
+      "name": "Laxmi Baug"
+    },
+    {
+      "name": "Laxmi Nagar"
+    },
+    {
+      "name": "Limboni Baug"
+    },
+    {
+      "name": "Linking Road Shopping Area"
+    },
+    {
+      "name": "Lohar Chawl"
+    },
+    {
+      "name": "Lok Rachna"
+    },
+    {
+      "name": "Lokhandwala Complex"
+    },
+    {
+      "name": "Lokmanya Nagar"
+    },
+    {
+      "name": "Lower Parel"
+    },
+    {
+      "name": "Lumbini Buddha Vihar"
+    },
+    {
+      "name": "Machimar Nagar"
+    },
+    {
+      "name": "Madh"
+    },
+    {
+      "name": "Madraswadi"
+    },
+    {
+      "name": "Mahadevchi Wadi"
+    },
+    {
+      "name": "Mahakali Nagar"
+    },
+    {
+      "name": "Mahalakshmi"
+    },
+    {
+      "name": "Maharashtra Nagar"
+    },
+    {
+      "name": "Mahatma Phule Nagar"
+    },
+    {
+      "name": "Mahavir Nagar"
+    },
+    {
+      "name": "Mahim"
+    },
+    {
+      "name": "Mahim Koliwada"
+    },
+    {
+      "name": "Mahul"
+    },
+    {
+      "name": "Mahul Koliwada"
+    },
+    {
+      "name": "Majiwada"
+    },
+    {
+      "name": "Majiwada Gaon"
+    },
+    {
+      "name": "Malabar Hill"
+    },
+    {
+      "name": "Malad East"
+    },
+    {
+      "name": "Malad West"
+    },
+    {
+      "name": "Mali Nagar"
+    },
+    {
+      "name": "Malla"
+    },
+    {
+      "name": "Mallapada"
+    },
+    {
+      "name": "Malpa Dongri"
+    },
+    {
+      "name": "Malvani Koliwada"
+    },
+    {
+      "name": "Malwani"
+    },
+    {
+      "name": "Mandala"
+    },
+    {
+      "name": "Mandvi"
+    },
+    {
+      "name": "Mangal Nagar"
+    },
+    {
+      "name": "Mankhurd"
+    },
+    {
+      "name": "Mankhurd Village"
+    },
+    {
+      "name": "Mannu Bhai Chawl"
+    },
+    {
+      "name": "Manorpada"
+    },
+    {
+      "name": "Manpada"
+    },
+    {
+      "name": "Mantralaya"
+    },
+    {
+      "name": "Maraoli Village"
+    },
+    {
+      "name": "Mariammar Nagar"
+    },
+    {
+      "name": "Marol Village"
+    },
+    {
+      "name": "Maroshi Pada"
+    },
+    {
+      "name": "Marve"
+    },
+    {
+      "name": "Masjid Bunder"
+    },
+    {
+      "name": "Matharpacady"
+    },
+    {
+      "name": "Matunga East"
+    },
+    {
+      "name": "Matunga West"
+    },
+    {
+      "name": "Mazgaon"
+    },
+    {
+      "name": "MIDC"
+    },
+    {
+      "name": "Milat Nagar"
+    },
+    {
+      "name": "Milind Nagar"
+    },
+    {
+      "name": "Mira"
+    },
+    {
+      "name": "Mirani Nagar"
+    },
+    {
+      "name": "Model Town"
+    },
+    {
+      "name": "Mogharpada"
+    },
+    {
+      "name": "Mohli Village"
+    },
+    {
+      "name": "Mora Village"
+    },
+    {
+      "name": "Motempada"
+    },
+    {
+      "name": "Motilal Nagar I"
+    },
+    {
+      "name": "Motilal Nagar II"
+    },
+    {
+      "name": "Motilal Nagar III"
+    },
+    {
+      "name": "Mount Mary"
+    },
+    {
+      "name": "Mulund East"
+    },
+    {
+      "name": "Mulund West"
+    },
+    {
+      "name": "Munshi Nagar"
+    },
+    {
+      "name": "Mustafa Bazaar"
+    },
+    {
+      "name": "N. L. Complex"
+    },
+    {
+      "name": "Nagesh Patil Wadi"
+    },
+    {
+      "name": "Nagpada"
+    },
+    {
+      "name": "Nahur"
+    },
+    {
+      "name": "Nahur Gaon"
+    },
+    {
+      "name": "Naigaon"
+    },
+    {
+      "name": "Naik Nagar"
+    },
+    {
+      "name": "Najma Nagar"
+    },
+    {
+      "name": "Nalanda Nagar"
+    },
+    {
+      "name": "Nalpada"
+    },
+    {
+      "name": "Nane Pada"
+    },
+    {
+      "name": "Nanshi Munshi Chawl"
+    },
+    {
+      "name": "Narayan Nagar"
+    },
+    {
+      "name": "Narayanpada"
+    },
+    {
+      "name": "Nariman Point"
+    },
+    {
+      "name": "Nath Pai Nagar"
+    },
+    {
+      "name": "Naupada"
+    },
+    {
+      "name": "Navapada"
+    },
+    {
+      "name": "Navi Wadi"
+    },
+    {
+      "name": "Navjeevan Nagar"
+    },
+    {
+      "name": "Navjeevan Wadi"
+    },
+    {
+      "name": "Navjivan Society, Chembur"
+    },
+    {
+      "name": "Navpada"
+    },
+    {
+      "name": "Naware Baug Jagruti Nagar"
+    },
+    {
+      "name": "Neelam Nagar"
+    },
+    {
+      "name": "Nehru Nagar"
+    },
+    {
+      "name": "Netaji Nagar"
+    },
+    {
+      "name": "New Gautam Nagar"
+    },
+    {
+      "name": "New Limboni Baug"
+    },
+    {
+      "name": "New Mhada"
+    },
+    {
+      "name": "New Navy Nagar"
+    },
+    {
+      "name": "New Rahul Nagar"
+    },
+    {
+      "name": "Nirankari Nagar"
+    },
+    {
+      "name": "Nirmal Lifestyle"
+    },
+    {
+      "name": "Nityanand Nagar"
+    },
+    {
+      "name": "Nutan Nagar"
+    },
+    {
+      "name": "Om Wadi"
+    },
+    {
+      "name": "Orlem"
+    },
+    {
+      "name": "Oshiwara"
+    },
+    {
+      "name": "Ovaripada"
+    },
+    {
+      "name": "Owale"
+    },
+    {
+      "name": "Pachwad"
+    },
+    {
+      "name": "Padma Nagar"
+    },
+    {
+      "name": "Pali Hill"
+    },
+    {
+      "name": "Pali Village"
+    },
+    {
+      "name": "Panch Pakadi"
+    },
+    {
+      "name": "Panchsheel Nagar"
+    },
+    {
+      "name": "Pant Nagar"
+    },
+    {
+      "name": "Parel"
+    },
+    {
+      "name": "Parel Village"
+    },
+    {
+      "name": "Parmanand Wadi"
+    },
+    {
+      "name": "Parshi Wadi"
+    },
+    {
+      "name": "Pascal Wadi"
+    },
+    {
+      "name": "Paspoli Village"
+    },
+    {
+      "name": "Patilwadi"
+    },
+    {
+      "name": "Patlipada"
+    },
+    {
+      "name": "Pawar Nagar"
+    },
+    {
+      "name": "Payal Pada"
+    },
+    {
+      "name": "Peru Baug"
+    },
+    {
+      "name": "Phule Nagar"
+    },
+    {
+      "name": "Pirojsha Godrej Nagar"
+    },
+    {
+      "name": "Poisar"
+    },
+    {
+      "name": "Poonam Nagar"
+    },
+    {
+      "name": "Poonam Sagar Complex"
+    },
+    {
+      "name": "Powai"
+    },
+    {
+      "name": "Prabhadevi"
+    },
+    {
+      "name": "Prakash Nagar"
+    },
+    {
+      "name": "Pratap Nagar"
+    },
+    {
+      "name": "Prayag Nagar"
+    },
+    {
+      "name": "Prem Nagar"
+    },
+    {
+      "name": "Priyadarshini Ambica Nagar"
+    },
+    {
+      "name": "Qismat Nagar"
+    },
+    {
+      "name": "Rabale Village"
+    },
+    {
+      "name": "Rahul Nagar"
+    },
+    {
+      "name": "Rahul Nagar No.2"
+    },
+    {
+      "name": "Rai Pada"
+    },
+    {
+      "name": "Rajaram Wadi"
+    },
+    {
+      "name": "Rajendra Nagar"
+    },
+    {
+      "name": "Rajiv Gandhi Nagar"
+    },
+    {
+      "name": "Ram Krishna Nagar"
+    },
+    {
+      "name": "Ram Manohar Lohia Nagar"
+    },
+    {
+      "name": "Ram Nagar"
+    },
+    {
+      "name": "Ram Raheem Udyog Nagar"
+    },
+    {
+      "name": "Ramabai Ambedkar Nagar"
+    },
+    {
+      "name": "Ramabai Sahakar Nagar"
+    },
+    {
+      "name": "Ramghad Nagar"
+    },
+    {
+      "name": "Ramji Ambedkar Nagar"
+    },
+    {
+      "name": "Rampada"
+    },
+    {
+      "name": "Ranwar Village Square"
+    },
+    {
+      "name": "Rao Wadi"
+    },
+    {
+      "name": "Rawal Camp"
+    },
+    {
+      "name": "Renuka Nagar"
+    },
+    {
+      "name": "Rizvi Nagar"
+    },
+    {
+      "name": "Rohidas Nagar"
+    },
+    {
+      "name": "Royal Palms Estate"
+    },
+    {
+      "name": "S.V. Patel Nagar"
+    },
+    {
+      "name": "Sabale Nagar"
+    },
+    {
+      "name": "Sadbhavana Nagar"
+    },
+    {
+      "name": "Sahar Village"
+    },
+    {
+      "name": "Sai Baba Nagar"
+    },
+    {
+      "name": "Sai Bangoda Adivasi Gaothan"
+    },
+    {
+      "name": "Sai Nagar"
+    },
+    {
+      "name": "Sai Sagar"
+    },
+    {
+      "name": "Saibaba Nagar"
+    },
+    {
+      "name": "Sainath Nagar"
+    },
+    {
+      "name": "Saki Naka"
+    },
+    {
+      "name": "Salpadevipada"
+    },
+    {
+      "name": "Samarath Nagar"
+    },
+    {
+      "name": "Samrat Ashok Nagar"
+    },
+    {
+      "name": "Samta Nagar"
+    },
+    {
+      "name": "Sangam Nagar"
+    },
+    {
+      "name": "Sangharsh Nagar"
+    },
+    {
+      "name": "Sanjay Nagar I"
+    },
+    {
+      "name": "Sanjay Nagar II"
+    },
+    {
+      "name": "Sant Dnyaneshwar Nagar"
+    },
+    {
+      "name": "Santacruz West"
+    },
+    {
+      "name": "Santoshi Mata Hill"
+    },
+    {
+      "name": "Sardar Vallabhbhai Patel Nagar"
+    },
+    {
+      "name": "Sarvoday Nagar"
+    },
+    {
+      "name": "Sarvodaya Nagar"
+    },
+    {
+      "name": "Sector 1"
+    },
+    {
+      "name": "Sector 10"
+    },
+    {
+      "name": "Sector 11"
+    },
+    {
+      "name": "Sector 12"
+    },
+    {
+      "name": "Sector 13"
+    },
+    {
+      "name": "Sector 14"
+    },
+    {
+      "name": "Sector 15"
+    },
+    {
+      "name": "Sector 17"
+    },
+    {
+      "name": "Sector 18"
+    },
+    {
+      "name": "Sector 21"
+    },
+    {
+      "name": "Sector 23"
+    },
+    {
+      "name": "Sector 24"
+    },
+    {
+      "name": "Sector 26"
+    },
+    {
+      "name": "Sector 27"
+    },
+    {
+      "name": "Sector 3"
+    },
+    {
+      "name": "Sector 4"
+    },
+    {
+      "name": "Sector 5"
+    },
+    {
+      "name": "Sector 6"
+    },
+    {
+      "name": "Sector 8"
+    },
+    {
+      "name": "Sector 9"
+    },
+    {
+      "name": "Sector-2"
+    },
+    {
+      "name": "Sector-7"
+    },
+    {
+      "name": "Sen Nagar"
+    },
+    {
+      "name": "Seven Bungalows"
+    },
+    {
+      "name": "Sewri"
+    },
+    {
+      "name": "Sewri Koliwada"
+    },
+    {
+      "name": "Shankar Tekdi"
+    },
+    {
+      "name": "Shanti Nagar"
+    },
+    {
+      "name": "Shantinagar"
+    },
+    {
+      "name": "Shastri Nagar"
+    },
+    {
+      "name": "Sheshwadi"
+    },
+    {
+      "name": "Shimpoli"
+    },
+    {
+      "name": "Shindewadi"
+    },
+    {
+      "name": "Shiv Premi Nagar"
+    },
+    {
+      "name": "Shiv Shakti Nagar"
+    },
+    {
+      "name": "Shivai Nagar"
+    },
+    {
+      "name": "Shivaji Nagar"
+    },
+    {
+      "name": "Shivajinagar"
+    },
+    {
+      "name": "Shivneri Nagar"
+    },
+    {
+      "name": "Shivshrushti"
+    },
+    {
+      "name": "Shree Nagar"
+    },
+    {
+      "name": "Shrirampada"
+    },
+    {
+      "name": "Shyam Nagar"
+    },
+    {
+      "name": "Sion East"
+    },
+    {
+      "name": "Sion Koliwada"
+    },
+    {
+      "name": "Sitaphalwadi"
+    },
+    {
+      "name": "Social Nagar"
+    },
+    {
+      "name": "Sonapur"
+    },
+    {
+      "name": "Sri Ganesh Patel Nagar"
+    },
+    {
+      "name": "Sriput Nagar"
+    },
+    {
+      "name": "Subhash Nagar"
+    },
+    {
+      "name": "Suman Nagar"
+    },
+    {
+      "name": "Sumer Nagar"
+    },
+    {
+      "name": "Sundar Nagar"
+    },
+    {
+      "name": "Sunder Baug"
+    },
+    {
+      "name": "Suresh Nagar"
+    },
+    {
+      "name": "Surya Nagar"
+    },
+    {
+      "name": "Sutar Pakhadi"
+    },
+    {
+      "name": "Swami Narayan Nagar"
+    },
+    {
+      "name": "Swapna Nagari"
+    },
+    {
+      "name": "Tagore Nagar"
+    },
+    {
+      "name": "Talaopada"
+    },
+    {
+      "name": "Talavali Village"
+    },
+    {
+      "name": "Tanajiwadi"
+    },
+    {
+      "name": "Tara Village"
+    },
+    {
+      "name": "Tardeo"
+    },
+    {
+      "name": "Tata Nagar"
+    },
+    {
+      "name": "Tatanagar"
+    },
+    {
+      "name": "Tembhipada"
+    },
+    {
+      "name": "Thakur Village"
+    },
+    {
+      "name": "Tilak Nagar"
+    },
+    {
+      "name": "Tirandaz Village"
+    },
+    {
+      "name": "Trimurti Nagar"
+    },
+    {
+      "name": "Trombay Koliwada"
+    },
+    {
+      "name": "Tulshethpada"
+    },
+    {
+      "name": "Tulsi Wadi"
+    },
+    {
+      "name": "Tunga Village"
+    },
+    {
+      "name": "Udyog Nagar"
+    },
+    {
+      "name": "Umerkhadi"
+    },
+    {
+      "name": "Unnat Nagar"
+    },
+    {
+      "name": "Upper Trombay"
+    },
+    {
+      "name": "Uthalsar"
+    },
+    {
+      "name": "Utkarsha Nagar"
+    },
+    {
+      "name": "Vagri Wada"
+    },
+    {
+      "name": "Vaidya Nagar"
+    },
+    {
+      "name": "Vaishali Nagar"
+    },
+    {
+      "name": "Vaithara Nagar"
+    },
+    {
+      "name": "Vakola"
+    },
+    {
+      "name": "Vakola Village"
+    },
+    {
+      "name": "Varkhande Chawl"
+    },
+    {
+      "name": "Varsha Nagar"
+    },
+    {
+      "name": "Vartak Nagar"
+    },
+    {
+      "name": "Vasant Nagar"
+    },
+    {
+      "name": "Vasant Vihar"
+    },
+    {
+      "name": "Vashi"
+    },
+    {
+      "name": "Vashi Village"
+    },
+    {
+      "name": "Veena Nagar"
+    },
+    {
+      "name": "Veer Sambhaji Nagar"
+    },
+    {
+      "name": "Versova"
+    },
+    {
+      "name": "Versova Koliwada"
+    },
+    {
+      "name": "VES HOSTEL"
+    },
+    {
+      "name": "Vidya Nagari"
+    },
+    {
+      "name": "Vidya Vihar East"
+    },
+    {
+      "name": "Vidya Vihar West"
+    },
+    {
+      "name": "Vijay Nagar"
+    },
+    {
+      "name": "Vikhroli East"
+    },
+    {
+      "name": "Vikhroli Gaon"
+    },
+    {
+      "name": "Vikhroli West"
+    },
+    {
+      "name": "Vile Parle West"
+    },
+    {
+      "name": "Vishnu Nagar"
+    },
+    {
+      "name": "Vitawa Koliwada"
+    },
+    {
+      "name": "Vithal Nagar"
+    },
+    {
+      "name": "Vithaldas Nagar"
+    },
+    {
+      "name": "Wadala"
+    },
+    {
+      "name": "Wadala Village"
+    },
+    {
+      "name": "Wadavli Village"
+    },
+    {
+      "name": "Wadi Bandar"
+    },
+    {
+      "name": "Wadi Bunder"
+    },
+    {
+      "name": "Waghbil"
+    },
+    {
+      "name": "Wagle Industrial Estate"
+    },
+    {
+      "name": "Wanjawadi"
+    },
+    {
+      "name": "Willingdon"
+    },
+    {
+      "name": "Worli"
+    },
+    {
+      "name": "Worli Koliwada"
+    },
+    {
+      "name": "Yadav Nagar"
+    },
+    {
+      "name": "Yamuna Nagar"
+    },
+    {
+      "name": "Yashodham"
+    },
+    {
+      "name": "Yashodhan Nagar"
+    },
+    {
+      "name": "Yashwant Nagar"
+    },
+    {
+      "name": "Yeoor"
+    },
+    {
+      "name": "Yogi Hills"
     }
+  ],
+  "squareCandidates": [
+    "Andrew Square",
+    "Dhirubhai Ambani Square",
+    "Open Air Plaza"
   ]
 }

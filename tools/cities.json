@@ -6,5 +6,61 @@
     "country": "IN",
     "countryName": "India",
     "bbox": "18.25,73.65,18.75,74.10"
+  },
+  {
+    "city": "Mumbai",
+    "slug": "mumbai",
+    "state": "Maharashtra",
+    "country": "IN",
+    "countryName": "India",
+    "bbox": "18.89,72.77,19.31,73.01"
+  },
+  {
+    "city": "Delhi",
+    "slug": "delhi",
+    "state": "Delhi",
+    "country": "IN",
+    "countryName": "India",
+    "bbox": "28.40,76.84,28.88,77.35"
+  },
+  {
+    "city": "Bengaluru",
+    "slug": "bengaluru",
+    "state": "Karnataka",
+    "country": "IN",
+    "countryName": "India",
+    "bbox": "12.83,77.46,13.14,77.78"
+  },
+  {
+    "city": "Hyderabad",
+    "slug": "hyderabad",
+    "state": "Telangana",
+    "country": "IN",
+    "countryName": "India",
+    "bbox": "17.25,78.21,17.60,78.62"
+  },
+  {
+    "city": "Ahmedabad",
+    "slug": "ahmedabad",
+    "state": "Gujarat",
+    "country": "IN",
+    "countryName": "India",
+    "bbox": "22.90,72.45,23.13,72.69"
+  },
+  {
+    "city": "Chennai",
+    "slug": "chennai",
+    "state": "Tamil Nadu",
+    "country": "IN",
+    "countryName": "India",
+    "bbox": "12.85,80.15,13.25,80.35"
+  },
+  {
+    "city": "Kolkata",
+    "slug": "kolkata",
+    "state": "West Bengal",
+    "country": "IN",
+    "countryName": "India",
+    "bbox": "22.43,88.24,22.66,88.45"
   }
 ]
