@@ -7,56 +7,335 @@
   "city": "Pune",
   "state": "Maharashtra",
   "updatedAt": "2026-09-17",
+  "source": "OSM Overpass one-shot (bbox 18.25,73.65,18.75,74.10) + tools/overrides/pune.json.mjs",
+  "areaCount": 109,
   "areas": [
     {
-      "name": "Hinjewadi",
-      "children": [
-        {
-          "name": "Hinjewadi Phase 1"
-        },
-        {
-          "name": "Hinjewadi Phase 2"
-        },
-        {
-          "name": "Hinjewadi Phase 3"
-        },
-        {
-          "name": "Bhoirwadi"
-        },
-        {
-          "name": "Laxmi Chowk"
-        },
-        {
-          "name": "Shivaji Chowk"
-        }
-      ]
+      "name": "Ajmera"
+    },
+    {
+      "name": "Aundh"
+    },
+    {
+      "name": "Balewadi"
+    },
+    {
+      "name": "Balewadi High Street"
     },
     {
       "name": "Baner"
     },
     {
-      "name": "Wakad"
+      "name": "Bavdhan"
     },
     {
-      "name": "Koregaon Park"
+      "name": "Bavdhan Budruk"
     },
     {
-      "name": "Viman Nagar"
+      "name": "Bhosari"
+    },
+    {
+      "name": "Bhujbal Chowk"
+    },
+    {
+      "name": "Blue Ridge Town"
+    },
+    {
+      "name": "Chakankar Mala"
+    },
+    {
+      "name": "Chidoba Nagar"
+    },
+    {
+      "name": "Chinchwad"
+    },
+    {
+      "name": "Dagadupatil Nagar"
+    },
+    {
+      "name": "Dasar"
+    },
+    {
+      "name": "Dattawadi"
+    },
+    {
+      "name": "Deccan Gymkhana"
+    },
+    {
+      "name": "Dhanori"
+    },
+    {
+      "name": "Dobarwadi"
+    },
+    {
+      "name": "Erandwane"
+    },
+    {
+      "name": "Fatima Nagar"
+    },
+    {
+      "name": "Gandhipeth"
+    },
+    {
+      "name": "Ganesh Nagar"
+    },
+    {
+      "name": "Ganesh Peth"
+    },
+    {
+      "name": "Ghorpuri"
+    },
+    {
+      "name": "Gopalpatti"
+    },
+    {
+      "name": "Guruwar Peth"
+    },
+    {
+      "name": "Harinagar"
+    },
+    {
+      "name": "Hinjewadi"
+    },
+    {
+      "name": "Hinjewadi Phase 1"
+    },
+    {
+      "name": "Hinjewadi Phase 2"
+    },
+    {
+      "name": "Hinjewadi Phase 3"
+    },
+    {
+      "name": "Hirai Sitai Vasti"
+    },
+    {
+      "name": "Jagtap Nagar"
+    },
+    {
+      "name": "Jai Malhar Nagar"
+    },
+    {
+      "name": "Kalewadi"
+    },
+    {
+      "name": "Kalyani Nagar"
+    },
+    {
+      "name": "Karve Nagar"
+    },
+    {
+      "name": "Kasarwadi"
+    },
+    {
+      "name": "Kasba Peth"
+    },
+    {
+      "name": "Kaspate Vasti"
+    },
+    {
+      "name": "Katraj"
+    },
+    {
+      "name": "Kaverinagar"
+    },
+    {
+      "name": "Keshav Nagar"
+    },
+    {
+      "name": "Khadakwasla"
     },
     {
       "name": "Kharadi"
     },
     {
-      "name": "Hadapsar"
+      "name": "Kondhwa"
     },
     {
-      "name": "Kothrud"
+      "name": "Krushna Nagar"
+    },
+    {
+      "name": "Kumbharwada"
+    },
+    {
+      "name": "Laxmi Chowk"
+    },
+    {
+      "name": "Mandalay Lines"
+    },
+    {
+      "name": "Mangalwar Peth"
+    },
+    {
+      "name": "Manik Baug"
+    },
+    {
+      "name": "Manjari Budruk"
+    },
+    {
+      "name": "Marutrao Gaikwad Nagar"
+    },
+    {
+      "name": "Mavale Vasti"
+    },
+    {
+      "name": "Mohan Nagar"
+    },
+    {
+      "name": "More Wasti"
+    },
+    {
+      "name": "Mukund Nagar"
+    },
+    {
+      "name": "Mundhwa"
+    },
+    {
+      "name": "Narayan Peth"
+    },
+    {
+      "name": "Navi Peth"
+    },
+    {
+      "name": "Nigdi"
+    },
+    {
+      "name": "Old Sangvi"
+    },
+    {
+      "name": "Pallod Farms"
+    },
+    {
+      "name": "Panchavati"
+    },
+    {
+      "name": "Parkhe Vasti"
+    },
+    {
+      "name": "Pashan"
+    },
+    {
+      "name": "Pawar Nagar"
+    },
+    {
+      "name": "Pimple Gurav"
+    },
+    {
+      "name": "Pimple Nilakh"
+    },
+    {
+      "name": "Pimple Saudagar"
     },
     {
       "name": "Pimpri"
     },
     {
-      "name": "Magarpatta"
+      "name": "Pirangut"
+    },
+    {
+      "name": "Pune Cantonment"
+    },
+    {
+      "name": "Rahatani"
+    },
+    {
+      "name": "Ramwadi"
+    },
+    {
+      "name": "Ravet"
+    },
+    {
+      "name": "Sadashiv Peth"
+    },
+    {
+      "name": "Sahakar Nagar"
+    },
+    {
+      "name": "Sakhare Vasti"
+    },
+    {
+      "name": "Shaniwar Peth"
+    },
+    {
+      "name": "Shankar Kalat Nagar"
+    },
+    {
+      "name": "Shankar Maharaj Vasahat"
+    },
+    {
+      "name": "Shelke Nagar"
+    },
+    {
+      "name": "Shiv Nagar"
+    },
+    {
+      "name": "Shivaji Chowk"
+    },
+    {
+      "name": "Shivajinagar"
+    },
+    {
+      "name": "Shivane"
+    },
+    {
+      "name": "Shivtirth Nagar"
+    },
+    {
+      "name": "Shukrawar Peth"
+    },
+    {
+      "name": "Somwar Peth"
+    },
+    {
+      "name": "Sus"
+    },
+    {
+      "name": "Swargate"
+    },
+    {
+      "name": "Thergaon"
+    },
+    {
+      "name": "Tingrenagar"
+    },
+    {
+      "name": "Tukai Nagar"
+    },
+    {
+      "name": "Vadgaon Budruk"
+    },
+    {
+      "name": "Vanadeva Nagar"
+    },
+    {
+      "name": "Vasant Vihar"
+    },
+    {
+      "name": "Viman Nagar"
+    },
+    {
+      "name": "Vinayak Nagar"
+    },
+    {
+      "name": "Vishal Nagar"
+    },
+    {
+      "name": "Vishrantwadi"
+    },
+    {
+      "name": "Wakad"
+    },
+    {
+      "name": "Wanawadi"
+    },
+    {
+      "name": "Warje"
+    },
+    {
+      "name": "Yerawada"
+    },
+    {
+      "name": "Yewalewadi"
     }
   ]
 }

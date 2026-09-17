@@ -1,0 +1,6 @@
+# Scratch: raw OSM pulls, transform output, logs. Never published.
+_incoming/
+
+# OS noise
+Thumbs.db
+.DS_Store
