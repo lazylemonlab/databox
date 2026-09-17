@@ -15,8 +15,10 @@ consumed via jsDelivr CDN (CORS-enabled, edge-cached). No app release needed for
 https://cdn.jsdelivr.net/gh/lazylemonlab/databox@main/geo/...
 ```
 
-- Apps bundle a fallback copy + cache fetched files 7 days (localStorage/AsyncStorage).
-- Fetch failure → silently keep bundled/cached copy; app must never break offline.
+- Apps fetch files from the CDN on every refresh (no app-side disk cache;
+  jsDelivr edge-caches the files, so edits go live on the next refresh).
+- Fetch failure → degrade gracefully (keep last list / free-text fallback);
+  app must never break offline.
 - Breaking shape change → bump `schema` field; old apps ignore unknown keys (`children`).
 
 ## Adding data
