@@ -1,26 +1,26 @@
 # databox — public, non-sensitive data for all apps
 
-Free "database" for static data (cities, areas, constants). Edited in GitHub web UI,
+Free "database" for static data (geo, constants). Edited in GitHub web UI,
 consumed via jsDelivr CDN (CORS-enabled, edge-cached). No app release needed for updates.
 
 ## Catalog
 
-| Path | App | What |
-|---|---|---|
-| [`roomingo/v1/`](roomingo/v1/) | Roomingo | India cities + per-city areas (`index.json`, `schema.json`, `cities/*.json`) |
+| Path | What |
+|---|---|
+| [`geo/`](geo/) | Generic location tree (all apps): `index.json` + `countries/<CC>.json` |
 
 ## Consumption (all apps)
 
 ```
-https://cdn.jsdelivr.net/gh/lazylemonlab/databox@main/<app>/v1/...
+https://cdn.jsdelivr.net/gh/lazylemonlab/databox@main/geo/...
 ```
 
 - Apps bundle a fallback copy + cache fetched files 7 days (localStorage/AsyncStorage).
 - Fetch failure → silently keep bundled/cached copy; app must never break offline.
-- Breaking schema change → bump `$schemaVersion`; old apps ignore unknown fields.
+- Breaking shape change → bump `schema` field; old apps ignore unknown keys (`children`).
 
-## Adding a new app
+## Adding data
 
-1. Create `<app>/v1/` with `README.md`, `index.json`, `schema.json`.
-2. Add a row to the catalog table above.
+1. Geo: edit `geo/countries/<CC>.json` (keep A–Z, bump `updatedAt`), update `geo/index.json`.
+2. New dataset: create a top-level folder like `geo/` (generic, not per-app), add a row above.
 3. Never store secrets, PII, or user data here — public repo.
