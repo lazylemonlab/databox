@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "country": {
+    "code": "IN",
+    "name": "India"
+  },
+  "city": "Mumbai",
+  "state": "Maharashtra",
+  "updatedAt": "2026-09-17",
+  "areas": [
+    {
+      "name": "Andheri West"
+    },
+    {
+      "name": "Bandra West"
+    },
+    {
+      "name": "Juhu"
+    },
+    {
+      "name": "Powai"
+    },
+    {
+      "name": "Malad West"
+    },
+    {
+      "name": "Borivali West"
+    },
+    {
+      "name": "Goregaon"
+    },
+    {
+      "name": "Versova"
+    },
+    {
+      "name": "Dadar"
+    },
+    {
+      "name": "Chembur"
+    },
+    {
+      "name": "Mulund"
+    },
+    {
+      "name": "Thane West"
+    }
+  ]
+}

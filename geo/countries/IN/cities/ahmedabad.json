@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "country": {
+    "code": "IN",
+    "name": "India"
+  },
+  "city": "Ahmedabad",
+  "state": "Gujarat",
+  "updatedAt": "2026-09-17",
+  "areas": [
+    {
+      "name": "Satellite"
+    },
+    {
+      "name": "Vastrapur"
+    },
+    {
+      "name": "Navrangpura"
+    },
+    {
+      "name": "Bopal"
+    },
+    {
+      "name": "Naranpura"
+    },
+    {
+      "name": "Maninagar"
+    },
+    {
+      "name": "Thaltej"
+    },
+    {
+      "name": "Gota"
+    },
+    {
+      "name": "Paldi"
+    },
+    {
+      "name": "Chandkheda"
+    }
+  ]
+}

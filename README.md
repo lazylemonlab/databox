@@ -7,7 +7,7 @@ consumed via jsDelivr CDN (CORS-enabled, edge-cached). No app release needed for
 
 | Path | What |
 |---|---|
-| [`geo/`](geo/) | Generic location tree (all apps): `index.json` + `countries/<CC>.json` |
+| [`geo/`](geo/) | Location tree, sharded by level: skeleton `countries/IN.json` (~2.7 KB) + lazy `countries/IN/cities/*.json` per city |
 
 ## Consumption (all apps)
 

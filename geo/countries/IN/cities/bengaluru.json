@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "country": {
+    "code": "IN",
+    "name": "India"
+  },
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "updatedAt": "2026-09-17",
+  "areas": [
+    {
+      "name": "Koramangala"
+    },
+    {
+      "name": "Indiranagar"
+    },
+    {
+      "name": "HSR Layout"
+    },
+    {
+      "name": "Whitefield"
+    },
+    {
+      "name": "Marathahalli"
+    },
+    {
+      "name": "BTM Layout"
+    },
+    {
+      "name": "Jayanagar"
+    },
+    {
+      "name": "Malleshwaram"
+    },
+    {
+      "name": "Hebbal"
+    },
+    {
+      "name": "Electronic City"
+    },
+    {
+      "name": "Yelahanka"
+    },
+    {
+      "name": "JP Nagar"
+    }
+  ]
+}

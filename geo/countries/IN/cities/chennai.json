@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "country": {
+    "code": "IN",
+    "name": "India"
+  },
+  "city": "Chennai",
+  "state": "Tamil Nadu",
+  "updatedAt": "2026-09-17",
+  "areas": [
+    {
+      "name": "Velachery"
+    },
+    {
+      "name": "Adyar"
+    },
+    {
+      "name": "Anna Nagar"
+    },
+    {
+      "name": "T. Nagar"
+    },
+    {
+      "name": "Porur"
+    },
+    {
+      "name": "Thiruvanmiyur"
+    },
+    {
+      "name": "Tambaram"
+    },
+    {
+      "name": "Guindy"
+    },
+    {
+      "name": "KK Nagar"
+    },
+    {
+      "name": "OMR"
+    }
+  ]
+}

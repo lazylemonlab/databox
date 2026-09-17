@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "country": "IN",
+  "updatedAt": "2026-09-17",
+  "cities": [
+    {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "file": "cities/ahmedabad.json",
+      "areaCount": 10,
+      "updatedAt": "2026-09-17"
+    },
+    {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "file": "cities/bengaluru.json",
+      "areaCount": 12,
+      "updatedAt": "2026-09-17"
+    },
+    {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "file": "cities/chennai.json",
+      "areaCount": 10,
+      "updatedAt": "2026-09-17"
+    },
+    {
+      "city": "Delhi",
+      "state": "Delhi",
+      "file": "cities/delhi.json",
+      "areaCount": 10,
+      "updatedAt": "2026-09-17"
+    },
+    {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "file": "cities/hyderabad.json",
+      "areaCount": 10,
+      "updatedAt": "2026-09-17"
+    },
+    {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "file": "cities/kolkata.json",
+      "areaCount": 10,
+      "updatedAt": "2026-09-17"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "file": "cities/mumbai.json",
+      "areaCount": 12,
+      "updatedAt": "2026-09-17"
+    },
+    {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "file": "cities/pune.json",
+      "areaCount": 10,
+      "updatedAt": "2026-09-17"
+    }
+  ]
+}

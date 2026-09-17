@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "country": {
+    "code": "IN",
+    "name": "India"
+  },
+  "city": "Kolkata",
+  "state": "West Bengal",
+  "updatedAt": "2026-09-17",
+  "areas": [
+    {
+      "name": "Salt Lake"
+    },
+    {
+      "name": "New Town"
+    },
+    {
+      "name": "Park Street"
+    },
+    {
+      "name": "Behala"
+    },
+    {
+      "name": "Dum Dum"
+    },
+    {
+      "name": "Ballygunge"
+    },
+    {
+      "name": "Jadavpur"
+    },
+    {
+      "name": "Lake Town"
+    },
+    {
+      "name": "Garia"
+    },
+    {
+      "name": "Howrah"
+    }
+  ]
+}

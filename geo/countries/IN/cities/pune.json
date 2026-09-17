@@ -1,0 +1,59 @@
+{
+  "schema": 1,
+  "country": {
+    "code": "IN",
+    "name": "India"
+  },
+  "city": "Pune",
+  "state": "Maharashtra",
+  "updatedAt": "2026-09-17",
+  "areas": [
+    {
+      "name": "Hinjewadi",
+      "children": [
+        {
+          "name": "Hinjewadi Phase 1"
+        },
+        {
+          "name": "Hinjewadi Phase 2"
+        },
+        {
+          "name": "Hinjewadi Phase 3"
+        },
+        {
+          "name": "Laxmi Chowk"
+        },
+        {
+          "name": "Shivaji Chowk"
+        }
+      ]
+    },
+    {
+      "name": "Baner"
+    },
+    {
+      "name": "Wakad"
+    },
+    {
+      "name": "Koregaon Park"
+    },
+    {
+      "name": "Viman Nagar"
+    },
+    {
+      "name": "Kharadi"
+    },
+    {
+      "name": "Hadapsar"
+    },
+    {
+      "name": "Kothrud"
+    },
+    {
+      "name": "Pimpri"
+    },
+    {
+      "name": "Magarpatta"
+    }
+  ]
+}

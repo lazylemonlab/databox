@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "country": {
+    "code": "IN",
+    "name": "India"
+  },
+  "city": "Delhi",
+  "state": "Delhi",
+  "updatedAt": "2026-09-17",
+  "areas": [
+    {
+      "name": "Laxmi Nagar"
+    },
+    {
+      "name": "Karol Bagh"
+    },
+    {
+      "name": "Rohini"
+    },
+    {
+      "name": "Dwarka"
+    },
+    {
+      "name": "Saket"
+    },
+    {
+      "name": "Lajpat Nagar"
+    },
+    {
+      "name": "Uttam Nagar"
+    },
+    {
+      "name": "Malviya Nagar"
+    },
+    {
+      "name": "Janakpuri"
+    },
+    {
+      "name": "Pitampura"
+    }
+  ]
+}

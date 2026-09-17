@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "country": {
+    "code": "IN",
+    "name": "India"
+  },
+  "city": "Hyderabad",
+  "state": "Telangana",
+  "updatedAt": "2026-09-17",
+  "areas": [
+    {
+      "name": "Madhapur"
+    },
+    {
+      "name": "Kondapur"
+    },
+    {
+      "name": "Kukatpally"
+    },
+    {
+      "name": "Dilsukhnagar"
+    },
+    {
+      "name": "Begumpet"
+    },
+    {
+      "name": "Ameerpet"
+    },
+    {
+      "name": "Miyapur"
+    },
+    {
+      "name": "LB Nagar"
+    },
+    {
+      "name": "Uppal"
+    },
+    {
+      "name": "Secunderabad"
+    }
+  ]
+}
